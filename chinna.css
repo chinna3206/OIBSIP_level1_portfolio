@@ -1,0 +1,324 @@
+.first-con {
+    background-color: #191a1d;
+    background-size: cover;
+    width: 100%;
+}
+
+.first-bg-container {
+    height: 90vh;
+    width: 98vw;
+    background-color: black;
+    background-size: cover;
+
+}
+
+.logo {
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 700;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.image-first {
+    border-radius: 200px;
+    height: 250px;
+    width: 220px;
+    background-size: cover;
+}
+
+.head-first {
+    color: white;
+    font-size: 30px;
+}
+
+.para-first {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.button-first {
+    padding: 15px;
+    margin: 5px;
+    color: white;
+    background-color: #4b6cc1;
+    border-radius: 8px;
+    width: 35%;
+}
+
+.name {
+    color: #4b6cc1;
+    font-weight: bold;
+}
+
+.navbar-nav {
+    width: 100%;
+}
+
+
+
+.outside {
+
+    background-color: black;
+    background-size: cover;
+}
+
+.para {
+    color: #cced00;
+    font-size: 27px;
+    font-weight: bold;
+    padding: 5px;
+    margin-top: 10px;
+    font-family: "Roboto";
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.head {
+    color: white;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.image {
+    width: 70%;
+    margin: 20px;
+    background-size: cover;
+}
+
+.para1 {
+    color: #9aa5b1;
+    font-size: 19px;
+    padding: 6px;
+    margin: 10px;
+    margin-left: 10px;
+}
+
+
+.skillss {
+    width: 95vw;
+    background-image: url("https://img.freepik.com/free-vector/gradient-black-background-with-realistic-elements_52683-76744.jpg?t=st=1710501310~exp=1710504910~hmac=ef966c3ac9aac4348a3e6917cd37e4667a5b73b99492a58d895e1f8c08c71c83&w=996");
+    background-size: cover;
+
+}
+
+.skills {
+    background-color: #323f4b;
+    padding: 20px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+    width: 98%;
+    background-size: cover;
+}
+
+.image2 {
+    width: 50%;
+    background-size: cover;
+}
+
+.head2 {
+    color: white;
+    FONT-SIZE: 24PX;
+}
+
+.para {
+    padding: 10px;
+}
+
+
+
+.certi-head {
+    color: white;
+    font-family: "Roboto";
+    font-size: 36px;
+    margin: 15px;
+    font-weight: bold;
+}
+
+.certi-para {
+    color: #9aa5b1;
+    font-size: 24px;
+    margin: 15px;
+}
+
+
+
+.centi-list {
+    COLOR: #9aa5b1;
+    FONT-SIZE: 20PX;
+
+}
+
+
+
+
+.third-container {
+    background-color: black;
+    background-size: cover;
+}
+
+.inside-container {
+    background-color: black;
+    border-radius: 8px;
+    background-size: cover;
+
+}
+
+.third-image {
+    width: 90%;
+    padding: 5px;
+    margin: 10px;
+}
+
+.third-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    margin-top: 30px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.third-heading {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.paraaa {
+    color: #9aa5b1;
+    font-size: 20px;
+    font-family: "Roboto";
+}
+
+.main-heading {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+}
+
+.main-paragraph {
+    color: #9aa5b1;
+    font-size: 24px;
+}
+
+.menu-item-link {
+    color: #cced00;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.fourth-container {
+    background-color: black;
+    background-size: cover;
+}
+
+.fourth-heading {
+    color: #cced00;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.fourth-heading {
+    color: white;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.container1 {
+    background-color: #323f4b;
+    border-radius: 5px;
+
+}
+
+.fourth-image {
+    width: 15%;
+}
+
+.inside-heading {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.inside-paragraph {
+    color: #9aa5b1;
+    font-size: 24px;
+
+}
+
+.hello {
+    background-color: transparent;
+}
+
+
+.fifth-outside {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+
+
+}
+
+.fifth-icons {
+    color: white;
+}
+
+.hr-line {
+    background-color: white;
+    width: 60px;
+}
+
+.fifth-head {
+    color: white;
+}
+
+.fifth-para {
+    color: white;
+}
+
+.bg-container {
+    background-color: black;
+}
+
+
+.six-container {
+    background-color: black;
+}
+
+.six-image {
+    border-radius: 50px;
+    width: 25%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.six-head {
+    color: #cced00;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin: 10px;
+}
+
+.six-para {
+    color: #9aa5b1;
+    font-size: 18px;
+    margin: 10px;
+}
+
+.six-heading {
+    color: #cced00;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.six-icons {
+    color: #5a7184;
+    font-size: 30px;
+    margin: 8px;
+}
